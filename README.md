@@ -1,7 +1,7 @@
 # [web.dev](https://web.dev/)
 With actionable guidance and analysis, web.dev helps developers like you learn and apply the web's modern capabilities to your own sites and apps.
 
-## Learn
+### Learn
 * [Fast load times](#Fast-load-times)
 * [Network resilience](#Network-resilience)
 * [Safe and secure](#Safe-and-secure)
@@ -13,10 +13,10 @@ With actionable guidance and analysis, web.dev helps developers like you learn a
 Guarantee your site loads quickly to avoid user drop off.
 
 
-## Measure your site's performance     
+### Measure your site's performance     
 * [Discover performance opportunities with Lighthouse](https://web.dev/fast/discover-performance-opportunities-with-lighthouse)
 
-## Optimize your images
+### Optimize your images
 * Use Imagemin to compress images
 * Replace animated GIFs with video for faster page loads
 * Use lazysizes to lazyload images
@@ -24,7 +24,7 @@ Guarantee your site loads quickly to avoid user drop off.
 * Serve images with correct dimensions
 * Use WebP images
 
-## Optimize your JavaScript
+### Optimize your JavaScript
 * Apply instant loading with the PRPL pattern
 * Preload critical assets to improve loading speed
 * Reduce JavaScript payloads with code-splitting
@@ -32,16 +32,16 @@ Guarantee your site loads quickly to avoid user drop off.
 * Minify and compress network payloads
 * Serve modern code to modern browsers for faster page loads
 
-## Optimize web fonts
+### Optimize web fonts
 * Avoid invisible text during font loading
 
-## Measure performance in the field
+### Measure performance in the field
 * Using the Chrome UX Report to look at performance in the field
 * Using the CrUX Dashboard on Data Studio
 * Using the Chrome UX Report on PageSpeed Insights
 * Using the Chrome UX Report on BigQuery
 
-## Enforce performance budgets
+### Enforce performance budgets
 * Performance budgets 101
 * Incorporate performance budgets into your build process
 * Incorporate performance budgets into your build process
