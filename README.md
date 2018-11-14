@@ -17,7 +17,7 @@ Guarantee your site loads quickly to avoid user drop off.
 * [Discover performance opportunities with Lighthouse](https://web.dev/fast/discover-performance-opportunities-with-lighthouse)
 
 ### Optimize your images
-* Use Imagemin to compress images
+* [Use Imagemin to compress images](https://web.dev/fast/use-imagemin-to-compress-images)
 * Replace animated GIFs with video for faster page loads
 * Use lazysizes to lazyload images
 * Serve responsive images
